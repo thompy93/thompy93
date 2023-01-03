@@ -1,1 +1,1 @@
-console.log("Main loaded")
+console.log("hi from index");

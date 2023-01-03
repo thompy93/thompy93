@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/thompy93/thompy93.github.io#readme",
   "dependencies": {
-    "pokemontcgsdk": "^2.0.0"
+    "pokemontcgsdk": "^2.0.0",
+    "webpack": "^5.75.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
   }
 }
