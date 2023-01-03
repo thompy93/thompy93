@@ -1,0 +1,22 @@
+{
+  "name": "thompy93.github.io",
+  "version": "1.0.0",
+  "description": "<!--\r **thompy93/thompy93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thompy93/thompy93.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thompy93/thompy93.github.io/issues"
+  },
+  "homepage": "https://github.com/thompy93/thompy93.github.io#readme",
+  "dependencies": {
+    "pokemontcgsdk": "^2.0.0"
+  }
+}
